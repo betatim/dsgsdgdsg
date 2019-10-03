@@ -1,11 +1,12 @@
 {
-"global": {
-  "hello": "Welcome",
-  "bye": "See you later",
-  "wow": "Wow!"
-},
-"admin": {
-  "add": "Add a user",
-  "remove": "Remove a user"
-}
+    "admin": {
+        "add": "Add a user",
+        "cancel": "Cancel this user",
+        "remove": "Remove a user"
+    },
+    "global": {
+        "bye": "See you later",
+        "hello": "Welcome",
+        "wow": "Wow!"
+    }
 }
