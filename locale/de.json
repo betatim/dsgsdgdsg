@@ -1,0 +1,26 @@
+{
+    "global::hello": {
+        "translation": "Herzlich willkommen",
+        "notes": ""
+    },
+    "global::bye": {
+        "translation": "Bis später",
+        "notes": ""
+    },
+    "global::wow": {
+        "translation": "Beeindruckend!",
+        "notes": ""
+    },
+    "admin::add": {
+        "translation": "Fügen Sie einen Benutzer hinzu",
+        "notes": ""
+    },
+    "admin::remove": {
+        "translation": "Benutzer entfernen",
+        "notes": ""
+    },
+    "admin::cancel": {
+        "translation": "",
+        "notes": ""
+    }
+}
