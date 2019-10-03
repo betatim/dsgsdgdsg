@@ -1,0 +1,12 @@
+{
+    "admin": {
+        "add": "Fügen Sie einen Benutzer hinzu",
+        "cancel": "",
+        "remove": "Benutzer entfernen"
+    },
+    "global": {
+        "bye": "Bis später",
+        "hello": "Herzlich willkommen",
+        "wow": "Beeindruckend!"
+    }
+}
