@@ -2,7 +2,8 @@
 "global": {
   "hello": "Welcome",
   "bye": "See you later",
-  "wow": "Wow!"
+  "wow": "Wow!",
+  "amaze": "This is great!"
 },
 "admin": {
   "add": "Add a user",
